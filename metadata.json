@@ -1,0 +1,7 @@
+{
+  "name": "Copy of MathMistake Visualizer",
+  "description": "Upload handwritten math problems to identify mistakes and visualize concepts using Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
