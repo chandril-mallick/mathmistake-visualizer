@@ -1,17 +1,17 @@
-# 🎓 MistakeFixer
+#  MistakeFixer
 
 An AI-powered educational tool that helps students learn from their math mistakes without giving away the answer. Upload a photo of your handwritten math problem, and MistakeFixer will identify errors, explain concepts, and provide helpful hints to guide you toward the correct solution.
 
-## ✨ Features
+##  Features
 
-- 📸 **Image Upload**: Snap a photo of handwritten math problems
-- 🔍 **Mistake Detection**: AI-powered analysis identifies where you went wrong
-- 📊 **Visual Learning**: Interactive charts and visualizations to understand concepts
-- 💡 **Smart Hints**: Guided learning without revealing the answer
-- 🎨 **Modern UI**: Clean, responsive interface built with React and Tailwind-inspired design
-- ⚡ **Real-time Analysis**: Fast processing powered by Google Gemini AI
+-  **Image Upload**: Snap a photo of handwritten math problems
+-  **Mistake Detection**: AI-powered analysis identifies where you went wrong
+-  **Visual Learning**: Interactive charts and visualizations to understand concepts
+-  **Smart Hints**: Guided learning without revealing the answer
+-  **Modern UI**: Clean, responsive interface built with React and Tailwind-inspired design
+- **Real-time Analysis**: Fast processing powered by Google Gemini AI
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 - **Frontend**: React 19, TypeScript
 - **Build Tool**: Vite
@@ -20,12 +20,12 @@ An AI-powered educational tool that helps students learn from their math mistake
 - **Icons**: Lucide React
 - **Styling**: Custom CSS with modern design patterns
 
-## 📋 Prerequisites
+##  Prerequisites
 
 - Node.js (v16 or higher)
 - A Google Gemini API key ([Get one here](https://ai.google.dev/))
 
-## 🛠️ Installation & Setup
+##  Installation & Setup
 
 1. **Clone the repository**
    ```bash
@@ -54,7 +54,7 @@ An AI-powered educational tool that helps students learn from their math mistake
    
    Navigate to `http://localhost:3000`
 
-## 📦 Build for Production
+##  Build for Production
 
 ```bash
 npm run build
@@ -62,27 +62,27 @@ npm run build
 
 The optimized production build will be in the `dist` folder.
 
-## 🎯 How It Works
+##  How It Works
 
 1. **Upload**: Take a photo of your handwritten math problem
 2. **Analyze**: AI processes the image and identifies mistakes
 3. **Learn**: Review the mistake explanation, visual aids, and hints
 4. **Improve**: Apply the concepts to solve the problem correctly
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📄 License
+##  License
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 👨‍💻 Author
+##  Author
 
 **Chandril Mallick**
 - GitHub: [@chandril-mallick](https://github.com/chandril-mallick)
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Powered by [Google Gemini AI](https://ai.google.dev/)
 - Built with [Vite](https://vitejs.dev/) and [React](https://react.dev/)
